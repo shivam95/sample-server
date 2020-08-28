@@ -1,4 +1,4 @@
-[{
+{users: [{
   "channelName": "cjennick0",
   "subscriberCount": 4594103,
   "videoFrequency": 7,
@@ -16,4 +16,4 @@
     }
   ],
   "phone": "1241552146"
-}]
+}]}
