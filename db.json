@@ -1,4 +1,4 @@
-{users: [{
+{"users": [{
   "channelName": "cjennick0",
   "subscriberCount": 4594103,
   "videoFrequency": 7,
@@ -10,10 +10,7 @@
   "lastVideoUploadedOn": "2019-09-23T05:01:12Z",
   "category": "health",
   "collabrations": [
-    {
-    },
-    {
-    }
+    "mamaearth"
   ],
   "phone": "1241552146"
 }]}
